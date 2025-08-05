@@ -1,0 +1,70 @@
+*, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+}
+.cantiner {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+nav {
+    display: flex;
+    gap: 30px;
+}
+
+.ustoz {
+    font-size: 30px;
+}
+
+.ota {
+    background-color: black;
+    color: white;
+}
+
+
+.cantiner1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Sa {
+    font-size: 100px;
+    color: aqua;
+}
+
+.matn {
+    font-size: 17px;
+}
+
+.Rasm {
+    width: 618px;
+    height: 613px;
+}
+
+.sarlavha {
+    font-size: 70px;
+}
+
+.tugma {
+    color: white;
+    background-color: black;
+    font-size: 40px;
+}
